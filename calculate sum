@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 10 06:17:19 2024
-
-@author: TechnoShip
-"""
 num=int(input("enter your numbers to calculate the sum : "))
 sum=0
 count = 0
